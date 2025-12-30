@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-1.2.0-green?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red?style=for-the-badge&logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **An intelligent AI-powered research assistant that searches the web and answers your questions with context awareness**
 
@@ -249,56 +248,5 @@ llm = ChatGoogleGenerativeAI(
     temperature=0              # Adjust creativity
 )
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/AmazingFeature`
-3. **Commit your changes**: `git commit -m 'Add some AmazingFeature'`
-4. **Push to the branch**: `git push origin feature/AmazingFeature`
-5. **Open a Pull Request**
-
-### Ideas for Contributions
-
-- 🎨 UI/UX improvements
-- 🔧 Additional tools (calculator, weather, etc.)
-- 📊 Analytics and insights
-- 🌐 Multi-language support
-- 📱 Mobile responsiveness
-- 🧪 Unit tests
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **LangChain & LangGraph** - For the amazing agent framework
-- **Google** - For Gemini AI model
-- **Streamlit** - For the beautiful UI framework
-- **DuckDuckGo** - For privacy-respecting search
-
----
-
-## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/AgentD/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/AgentD/discussions)
-
----
-
 <div align="center">
-
-**Made with ❤️ using LangGraph and AI**
-
-⭐ Star this repo if you find it helpful!
-
 </div>
