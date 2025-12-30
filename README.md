@@ -23,8 +23,6 @@
 - 🧠 **Smart Orchestration**: Built on LangGraph for complex agent workflows
 - 🔍 **Web Search Integration**: Real-time internet access via DuckDuckGo
 - 💬 **Conversational Memory**: Remembers context across multiple questions
-- 🎨 **Beautiful UI**: Clean Streamlit interface with chat history
-- 🚀 **Powered by Gemini 2.0**: Uses Google's latest AI model
 - 🔧 **Transparent Reasoning**: See the agent's thought process
 
 ---
@@ -36,16 +34,13 @@
 - **🔎 Intelligent Research**: Automatically searches the web for accurate, up-to-date information
 - **💭 Thought Process Visualization**: View tool calls and reasoning steps
 - **🧵 Multi-turn Conversations**: Ask unlimited follow-up questions with full context
-- **📊 Conversation Stats**: Track your interaction history
 - **🔄 Session Management**: Start fresh conversations anytime
-- **⚡ Real-time Streaming**: See responses as they're generated
 
 ### Technical Features
 
 - **State Management**: LangGraph StateGraph for robust agent orchestration
 - **Memory Persistence**: MemorySaver checkpointer for conversation continuity
 - **Tool Binding**: Seamless integration of external tools (search)
-- **Error Handling**: Graceful degradation and error recovery
 - **Modular Architecture**: Clean separation of concerns
 
 ---
